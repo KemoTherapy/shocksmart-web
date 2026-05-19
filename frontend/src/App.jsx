@@ -158,16 +158,26 @@ function Landing({ onLaunch, onDocs }) {
               Replace the placeholder div below with:
               <iframe
                 style={{width:"100%", aspectRatio:"16/9", border:"none", display:"block"}}
-                src="https://youtu.be/T_ZO_myEfx8"
+                src="https://youtu.be//T_ZO_myEfx8"
                 allowFullScreen
               />
             */}
-            <div style={{ aspectRatio:"16/9", background:"#f3f4f6", display:"flex", flexDirection:"column", alignItems:"center", justifyContent:"center", gap:12 }}>
-              <div style={{ width:52, height:52, borderRadius:"50%", background:"#e5e7eb", display:"flex", alignItems:"center", justifyContent:"center" }}>
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="#9ca3af"><polygon points="5,3 19,12 5,21"/></svg>
-              </div>
-              <span style={{ fontSize:13, color:"#9ca3af" }}>Demo video</span>
-            </div>
+            <div style={{ aspectRatio: "16/9", width: "100%" }}>
+  <iframe
+    width="100%"
+    height="100%"
+    src="https://www.youtube.com/embed/T_Z0_myEfx8"
+    title="YouTube video player"
+    frameBorder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowFullScreen
+    style={{
+      borderRadius: "12px",
+      minHeight: "400px",
+      border: "none",
+    }}
+  />
+</div>
           </div>
         </div>
       </div>
