@@ -158,7 +158,7 @@ function Landing({ onLaunch, onDocs }) {
               Replace the placeholder div below with:
               <iframe
                 style={{width:"100%", aspectRatio:"16/9", border:"none", display:"block"}}
-                src="https://www.youtube.com/embed/YOUR_VIDEO_ID"
+                src="https://youtu.be/T_ZO_myEfx8"
                 allowFullScreen
               />
             */}
