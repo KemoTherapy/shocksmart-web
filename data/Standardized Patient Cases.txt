@@ -1,0 +1,1464 @@
+CASE  1, TREATMENT 1 
+Patient is a 68 yo male outpatient with history of mania and chronic pain, current cannabis use and mild neurocognitive disorder with behavioral issues (but no benzos or other seizure medications or delirium). Presenting for first treatment feeling uncertain.  
+  
+Psychiatric factors most important for the patient case 
+Input types Psychiatric factors most important for the patient case binary (yes) Dx bipolarity or hx impulsive violence binary (no) On benzodiazepines binary (no) On seizure medications binary (yes) Dx chronic pain  binary (yes) Dx neurocognitive disorder  Binary (no) Dx fracture or neuromuscular disorder For above 3 “yes responses” 
+If y then --> Consider methohexital and precedex  If y then --> Add premedication (Tylenol, Toradol or other NSAIDs) If y then --> Start RUL, prioritize Precedex or sufentanyl and Avoid propofol, sevoflurane, isoflurane, and midazolam Medical Factors 68 Age 
+57 resting HR 125 systolic 
+75 diastolic 
+82.5kg weight list of medications: Latuda, liothyronine 50mcg, Lmethylfolate 15mg, omeprazole 40mg Prior Complications (Skip if 1st ever treatment) 
+Tampa Site A Group (Sullivan, Stewart, Kroger, Gunther) algorithm suggests: Methohexital because methohexital and precede as per above have been identified as the ideal agents from our formulary. As precedex cannot be used alone and we will initially trial monotherapy our answer will be methohexital. Tylenol will be provided orally post treatment as needed due to the chronic pain factor and the patient will start RUL with stimulus based on age 68%. Dosing calculation for methohexital is as follows for the above kg. 
+IV Dosing of ECT anesthetics minimum maximum methohexital (1-1.5mg/kg) 82.5 123.8  
+Cocktail: Tylenol+ precedex+ methohexital + succinylcholine
+
+Complication: None
+
+
+CASE 1, TREATMENT 2 
+Patient is a 68 yo male outpatient with history of mania and chronic pain, current cannabis use and high-risk behaviors with cognitive issues (but no benzos or other seizure medications or delirium) with a resting HR 57 and BP 125/75 with no known arrhythmias weighing 82.5kg. Presenting for second treatment after experiencing reemergence delirium and muscle soreness that resulted in disturbance in gait.  
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 55 resting HR 100 systolic 
+67 diastolic 
+82.5kg weight list of medications: Latuda,  liothyronine 50mcg, Lmethylfolate 15mg, omeprazole 40mg   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (yes) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+If y then --> Start RUL, prioritize Precedex or sufentanyl and Avoid propofol, sevoflurane, isoflurane, and midazolam   
+ 
+Cocktail: Tylenol+ precedex+ methohexital + succinylcholine
+
+Complication: None
+
+
+CASE 1, TREATMENT 3 
+Patient is a 68 yo male outpatient with history of mania and chronic pain, current cannabis use and high-risk behaviors with cognitive issues (but no benzos or other seizure medications or delirium) with a resting HR 57 and BP 125/75 with no known arrhythmias weighing 82.5kg. Presenting for second treatment after experiencing reemergence delirium and muscle soreness that resulted in disturbance in gait.  
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 55 resting HR 100 systolic 
+67 diastolic 
+82.5kg weight list of medications: Latuda, liothyronine 50mcg, Lmethylfolate 15mg, omeprazole 40mg   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+Rationale: no complication no change  
+ 
+Cocktail: Tylenol+ precedex+ methohexital + succinylcholine
+
+Complication: None
+
+
+CASE 1, TREATMENT 4 
+Patient is a 68 yo male outpatient with history of mania and chronic pain, current cannabis use and high-risk behaviors with cognitive issues (but no benzos or other seizure medications or delirium) with a resting HR 57 and BP 125/75 with no known arrhythmias weighing 82.5kg. Presenting for second treatment after experiencing reemergence delirium and muscle soreness that resulted in disturbance in gait.  
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 55 resting HR 100 systolic 
+67 diastolic 
+82.5kg weight list of medications: liothyronine 50mcg, Lmethylfolate 15mg, omeprazole 40mg   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+Rationale: no complication no change  
+ 
+Cocktail: Tylenol+ precedex+ methohexital + succinylcholine
+
+Complication: None
+
+
+CASE  2, TREATMENT 1 
+Patient is a 38 yo male outpatient with history of MDD, severe with PTSD + comorbid substance use (alcohol, cocaine and cannabis), severe ADHD, and chronic pain. Current cannabis use and severe alcohol use but no benzos or other seizure medications or delirium) but no known arrhythmias weighing 90kg. Presenting now for first treatment.  
+  
+Input typesPsychiatric factors most important for the patient casebinary (no)prior reemergence or hx violencebinary (no)benzosbinary (no)on seizure medicationsbinary (yes)current painbinary (no)current nausea or emesisbinary (yes)logistics w. high risk for cognitive issues  
+If y then --> Add premedication (Tylenol, Toradol or other NSAIDs) 
+If y then -->Start RUL, prioritize Precedex or sufentanyl and Avoid propofol, sevoflurane, isoflurane, ketamine, and midazolam
+Medical Factors 38 Age 
+77 HR 145 systolic       90 diastolic 
+90 kg weight list of medications: none 
+0 Current unstable fracture Prior Complications (Skip if 1st ever treatment) 
+ 
+Tampa Site A Group (Sullivan, Stewart, Kroger, Gunther) algorithm suggests: Methohexital or propofol with a premedication. Between the two anesthetics, propofol based on anxiety and concurrent alcohol use was anticipated to most likely to wake the patient up smoother.. Tylenol will be provided orally post treatment as needed due to the chronic pain factor and the patient will start RUL with stimulus based on age 38%. After discussion of plan with patient he disclosed doubts regarding treatment response and therefore a decision was made to start with bitemporal and titrate laterality after gauging cognitive adverse effects. Dosing calculation for propofol is as follows for the above kg.   Cocktail: Tylenol+ propofol + succinylcholine
+
+Complication: Headache, HTN
+
+CASE 2, TREATMENT 2 
+Patient is a 38 yo male outpatient with history of MDD, moderately severe with PTSD complicated by comorbid substance use (alcohol, cocaine and cannabis) and chronic pain. Patient presents to ECT clinic with current cannabis use and recent alcohol use and has a history of cocaine use in the past year. Presenting for second treatment after experiencing hypertensive urgency and muscle soreness that resulted in worsening of chronic pain and associated PTSD.  Consult for sleep clinic for sleep apnea evaluation was also placed.
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 38 Age 
+77 resting HR 145 systolic 
+90 diastolic 
+90 kg weight list of medications: none 
+0 Current unstable fracture   
+Prior Complications:  
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (yes)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (yes)headachebinary (no)nausea or emesis  
+If y then --> Add premedication (Tylenol, Toradol or other NSAIDs) 
+Rationale: Although generally managed by PCP, severe perioperative HTN may result in excess periprocedural bleeding, myocardial ischemia and/or infarction, congestive heart failure (CHF) and acute pulmonary edema (APE). Therefore it is crucial to apply the evidence to stratify the commonly used anesthetics for ECT in order of most to least likely to contribute to hypertensive crisis vs cause one. 
+  
+Cocktail: Tylenol+ Toradol+ propofol + succinylcholine + labetalol
+
+Complication: None
+
+CASE 2, TREATMENT 3 
+Patient is a 38 yo male outpatient with history of MDD, moderately severe with PTSD complicated by comorbid substance use (alcohol, cocaine and cannabis) and chronic pain. Patient presents to ECT clinic with current cannabis use and recent alcohol use and has a history of cocaine use in the past year. Previous treatment canceled due to interim cocaine use. Patient is now drug free for 2 weeks with negative UDS.
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 38 Age 
+77 resting HR 145 systolic 
+90 diastolic 
+90 kg weight list of medications: none 
+0 Current unstable fracture   
+Prior Complications:  
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesis  
+  
+Cocktail: Tylenol+ Toradol+ propofol + succinylcholine + labetalol
+
+Complication: None
+
+
+
+CASE 2, TREATMENT 4
+Patient is a 38 yo male outpatient with history of MDD, moderately severe with PTSD complicated by comorbid substance use (alcohol, cocaine and cannabis) and chronic pain. Patient presents to ECT clinic with current cannabis use and recent alcohol use and has a history of cocaine use in the past year. Patient started wearing CPAP machine.  
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 38 Age 
+77 resting HR 145 systolic 
+90 diastolic 
+90 kg weight list of medications: none 
+0 Current unstable fracture   
+Prior Complications:  
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesis  
+If y then --> Add premedication (Tylenol, Toradol or other NSAIDs) 
+  
+Cocktail: Tylenol+ Toradol+ propofol + succinylcholine + labetalol
+
+Complication: None
+
+
+
+CASE 2, TREATMENT 5
+Patient is a 38 yo male outpatient with history of MDD, moderately severe with PTSD complicated by comorbid substance use (alcohol, cocaine and cannabis) and chronic pain. Patient presents to ECT clinic with current cannabis use and recent alcohol use and has a history of cocaine use in the past year. Presenting for second treatment after experiencing hypertensive urgency and muscle soreness that resulted in worsening of chronic pain and associated PTSD. 
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 38 Age 
+77 resting HR 135 systolic 
+80 diastolic 
+90 kg weight list of medications: none 
+0 Current unstable fracture   
+Prior Complications:  
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesis  
+
+  
+Cocktail: Tylenol+ Toradol+ propofol + succinylcholine
+
+Complication: None
+
+
+
+CASE 2, TREATMENT 6 
+Patient is a 38 yo male outpatient with history of MDD, moderately severe with PTSD complicated by comorbid substance use (alcohol, cocaine and cannabis) and chronic pain. Patient presents to ECT clinic with current cannabis use and recent alcohol use and has a history of cocaine use in the past year. Presenting for second treatment after experiencing hypertensive urgency and muscle soreness that resulted in worsening of chronic pain and associated PTSD. 
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 38 Age 
+70 resting HR 130 systolic 
+85 diastolic 
+90 kg weight list of medications: none 
+0 Current unstable fracture   
+Prior Complications:  
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesis  
+
+Cocktail: Tylenol+ Toradol+ propofol + succinylcholine
+
+Complication: None
+
+
+
+CASE 2, TREATMENT 7 
+Patient is a 38 yo male outpatient with history of MDD, moderately severe with PTSD complicated by comorbid substance use (alcohol, cocaine and cannabis) and chronic pain. Patient presents to ECT clinic with current cannabis use and recent alcohol use and has a history of cocaine use in the past year. Presenting for second treatment after experiencing hypertensive urgency and muscle soreness that resulted in worsening of chronic pain and associated PTSD. 
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 38 Age 
+70 resting HR 130 systolic 
+85 diastolic 
+90 kg weight list of medications: none 
+0 Current unstable fracture   
+Prior Complications:  
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesis  
+  
+Cocktail: Tylenol+ Toradol+ propofol + succinylcholine
+
+Complication: Inadequate seizure
+
+
+
+CASE 2, TREATMENT 8 
+Patient is a 38 yo male outpatient with history of MDD, moderately severe with PTSD complicated by comorbid substance use (alcohol, cocaine and cannabis) and chronic pain. Patient presents to ECT clinic with current cannabis use and recent alcohol use and has a history of cocaine use in the past year. Presenting for second treatment after experiencing hypertensive urgency and muscle soreness that resulted in worsening of chronic pain and associated PTSD. 
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 38 Age 
+77 resting HR 145 systolic 
+90 diastolic 
+90 kg weight list of medications: none 
+0 Current unstable fracture   
+Prior Complications:  
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (yes)Inadequate seizurebinary (no)headachebinary (no)nausea or emesis  
+If y then -->Change to etomidate (or methohexital if on propofol), Increase power, RUL-> BL, add stimulants (bupropion, caffeine, theophylline), increase hyperventilation 
+  
+Cocktail: Tylenol+ Toradol+ methohexital + succinylcholine
+
+Complication: None
+
+
+
+CASE 2, TREATMENT 9 
+Patient is a 38 yo male outpatient with history of MDD, moderately severe with PTSD complicated by comorbid substance use (alcohol, cocaine and cannabis) and chronic pain. Patient presents to ECT clinic with current cannabis use and recent alcohol use and has a history of cocaine use in the past year. 
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 38 Age 
+77 resting HR 145 systolic 
+90 diastolic 
+90 kg weight list of medications: none 
+0 Current unstable fracture   
+Prior Complications:  
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (yes)headachebinary (no)nausea or emesis  
+If y then --> Add premedication (Tylenol, Toradol or other NSAIDs) 
+Rationale: Although generally managed by PCP, severe perioperative HTN may result in excess periprocedural bleeding, myocardial ischemia and/or infarction, congestive heart failure (CHF) and acute pulmonary edema (APE). Therefore it is crucial to apply the evidence to stratify the commonly used anesthetics for ECT in order of most to least likely to contribute to hypertensive crisis vs cause one. 
+  
+Cocktail: Tylenol+ Toradol+ methohexital + succinylcholine
+
+Complication: None
+
+
+CASE 2, TREATMENT 10 
+Patient is a 38 yo male outpatient with history of MDD, moderately severe with PTSD complicated by comorbid substance use (alcohol, cocaine and cannabis) and chronic pain. Patient presents to ECT clinic with current cannabis use and recent alcohol use and has a history of cocaine use in the past year. Presenting for second treatment after experiencing hypertensive urgency and muscle soreness that resulted in worsening of chronic pain and associated PTSD. 
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 38 Age 
+77 resting HR 145 systolic 
+90 diastolic 
+90 kg weight list of medications: none 
+0 Current unstable fracture   
+Prior Complications:  
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (yes)headachebinary (no)nausea or emesis  
+If y then --> Add premedication (Tylenol, Toradol or other NSAIDs) 
+Rationale: Although generally managed by PCP, severe perioperative HTN may result in excess periprocedural bleeding, myocardial ischemia and/or infarction, congestive heart failure (CHF) and acute pulmonary edema (APE). Therefore it is crucial to apply the evidence to stratify the commonly used anesthetics for ECT in order of most to least likely to contribute to hypertensive crisis vs cause one. 
+  
+Cocktail: Tylenol+ Toradol+ methohexital + succinylcholine
+
+Complication: None
+
+CASE 2, TREATMENT 11 
+Patient is a 38 yo male outpatient with history of MDD, moderately severe with PTSD complicated by comorbid substance use (alcohol, cocaine and cannabis) and chronic pain. Patient presents to ECT clinic with current cannabis use and recent alcohol use and has a history of cocaine use in the past year. Presenting for second treatment after experiencing hypertensive urgency and muscle soreness that resulted in worsening of chronic pain and associated PTSD. 
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 38 Age 
+77 resting HR 145 systolic 
+90 diastolic 
+90 kg weight list of medications: none 
+0 Current unstable fracture   
+Prior Complications:  
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (yes)headachebinary (no)nausea or emesis  
+If y then --> Add premedication (Tylenol, Toradol or other NSAIDs) 
+Rationale: Although generally managed by PCP, severe perioperative HTN may result in excess periprocedural bleeding, myocardial ischemia and/or infarction, congestive heart failure (CHF) and acute pulmonary edema (APE). Therefore it is crucial to apply the evidence to stratify the commonly used anesthetics for ECT in order of most to least likely to contribute to hypertensive crisis vs cause one. 
+  
+Cocktail: Tylenol+ Toradol+ methohexital + succinylcholine
+
+Complication: None
+
+CASE 2, TREATMENT 12
+Patient is a 38 yo male outpatient with history of MDD, moderately severe with PTSD complicated by comorbid substance use (alcohol, cocaine and cannabis) and chronic pain. Patient presents to ECT clinic with current cannabis use and recent alcohol use and has a history of cocaine use in the past year. Presenting for second treatment after experiencing hypertensive urgency and muscle soreness that resulted in worsening of chronic pain and associated PTSD. 
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 38 Age 
+77 resting HR 145 systolic 
+90 diastolic 
+90 kg weight list of medications: none 
+0 Current unstable fracture   
+Prior Complications:  
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (yes)headachebinary (no)nausea or emesis  
+If y then --> Add premedication (Tylenol, Toradol or other NSAIDs) 
+Rationale: Although generally managed by PCP, severe perioperative HTN may result in excess periprocedural bleeding, myocardial ischemia and/or infarction, congestive heart failure (CHF) and acute pulmonary edema (APE). Therefore it is crucial to apply the evidence to stratify the commonly used anesthetics for ECT in order of most to least likely to contribute to hypertensive crisis vs cause one. 
+  
+Cocktail: Tylenol+ Toradol+ methohexital + succinylcholine
+
+Complication: None
+
+CASE 2, TREATMENT 13 
+Patient is a 38 yo male outpatient with history of MDD, moderately severe with PTSD complicated by comorbid substance use (alcohol, cocaine and cannabis) and chronic pain. Patient presents to ECT clinic with current cannabis use and recent alcohol use and has a history of cocaine use in the past year. Presenting for second treatment after experiencing hypertensive urgency and muscle soreness that resulted in worsening of chronic pain and associated PTSD. 
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 38 Age 
+77 resting HR 145 systolic 
+90 diastolic 
+90 kg weight list of medications: none 
+0 Current unstable fracture   
+Prior Complications:  
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (yes)headachebinary (no)nausea or emesis  
+If y then --> Add premedication (Tylenol, Toradol or other NSAIDs) 
+Rationale: Although generally managed by PCP, severe perioperative HTN may result in excess periprocedural bleeding, myocardial ischemia and/or infarction, congestive heart failure (CHF) and acute pulmonary edema (APE). Therefore it is crucial to apply the evidence to stratify the commonly used anesthetics for ECT in order of most to least likely to contribute to hypertensive crisis vs cause one. 
+  
+Cocktail: Tylenol+ Toradol+ methohexital + succinylcholine
+
+Complication: None
+
+
+CASE 2, TREATMENT 14
+Patient is a 38 yo male outpatient with history of MDD, moderately severe with PTSD complicated by comorbid substance use (alcohol, cocaine and cannabis) and chronic pain. Patient presents to ECT clinic with current cannabis use and recent alcohol use and has a history of cocaine use in the past year. Presenting for second treatment after experiencing hypertensive urgency and muscle soreness that resulted in worsening of chronic pain and associated PTSD. 
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 38 Age 
+77 resting HR 145 systolic 
+90 diastolic 
+90 kg weight list of medications: none 
+0 Current unstable fracture   
+Prior Complications:  
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (yes)headachebinary (no)nausea or emesis  
+If y then --> Add premedication (Tylenol, Toradol or other NSAIDs) 
+Rationale: Although generally managed by PCP, severe perioperative HTN may result in excess periprocedural bleeding, myocardial ischemia and/or infarction, congestive heart failure (CHF) and acute pulmonary edema (APE). Therefore it is crucial to apply the evidence to stratify the commonly used anesthetics for ECT in order of most to least likely to contribute to hypertensive crisis vs cause one. 
+  
+Cocktail: Tylenol+ Toradol+ methohexital + succinylcholine
+
+Complication: None
+
+CASE 2, TREATMENT 15
+Patient is a 38 yo male outpatient with history of MDD, moderately severe with PTSD complicated by comorbid substance use (alcohol, cocaine and cannabis) and chronic pain. Patient presents to ECT clinic with current cannabis use and recent alcohol use and has a history of cocaine use in the past year. Presenting for second treatment after experiencing hypertensive urgency and muscle soreness that resulted in worsening of chronic pain and associated PTSD. 
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 38 Age 
+77 resting HR 145 systolic 
+90 diastolic 
+90 kg weight list of medications: none 
+0 Current unstable fracture   
+Prior Complications:  
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (yes)headachebinary (no)nausea or emesis  
+If y then --> Add premedication (Tylenol, Toradol or other NSAIDs) 
+Rationale: Although generally managed by PCP, severe perioperative HTN may result in excess periprocedural bleeding, myocardial ischemia and/or infarction, congestive heart failure (CHF) and acute pulmonary edema (APE). Therefore it is crucial to apply the evidence to stratify the commonly used anesthetics for ECT in order of most to least likely to contribute to hypertensive crisis vs cause one. 
+  
+Cocktail: Tylenol+ Toradol+ methohexital + succinylcholine
+
+Complication: None
+
+CASE 2, TREATMENT 16 
+Patient is a 38 yo male outpatient with history of MDD, moderately severe with PTSD complicated by comorbid substance use (alcohol, cocaine and cannabis) and chronic pain. Patient presents to ECT clinic with current cannabis use and recent alcohol use and has a history of cocaine use in the past year. Presenting for second treatment after experiencing hypertensive urgency and muscle soreness that resulted in worsening of chronic pain and associated PTSD. 
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 38 Age 
+77 resting HR 145 systolic 
+90 diastolic 
+90 kg weight list of medications: none 
+0 Current unstable fracture   
+Prior Complications:  
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (yes)headachebinary (no)nausea or emesis  
+
+  
+Cocktail: Tylenol+ Toradol+ methohexital + succinylcholine
+
+Complication: None
+
+
+
+CASE  3, TREATMENT 1 
+Patient is a 38 yo female outpatient with history of mania and chronic pain and medical comorbidity of myasthenia gravis, ocular syndrome with a resting HR 73 and BP 135/80 with no known arrhythmias weighing 82.5kg. Presenting for first treatment.  
+  
+Psychiatric factors most important for the patient case 
+Input types Psychiatric factors most important for the patient case binary (no) Dx bipolarity or hx impulsive violence binary (no) On benzodiazepines binary (no) On seizure medications binary (yes) Current chronic pain  binary (no) Dx neurocognitive disorder  Binary (yes) Dx fracture or neuromuscular disorder For above 3 “yes responses” 
+If y then --> Add premedication (Tylenol, Toradol or other NSAIDs) If y then --> Use rocuronium for paralytic; Avoid succinylcholine ; IF ROC THEN ALSO SUGAMMADEX   
+Medical Factors 68 Age 
+57 resting HR 125 systolic 75 diastolic 
+85kg weight list of medications: acyclovir, rizatriptan, acetazolamide 
+0 Current unstable fracture Prior Complications (Skip if 1st ever treatment) 
+  
+Tampa Site A Group (Sullivan, Stewart, Kroger, Gunther) algorithm suggests: Methohexital because methohexital and precede as per above have been identified as the ideal agents from our formulary. As precedex cannot be used alone and we will initially trial monotherapy our answer will be methohexital. Tylenol will be provided orally post treatment as needed due to the chronic pain factor and the patient will start RUL with stimulus based on age 68%. Dosing calculation for methohexital is as follows for the above kg. 
+  
+IV Dosing of ECT anesthetics minimum maximum methohexital (1-1.5mg/kg) 82.5 123.8   Cocktail: Tylenol+ Methohexital + rocuronium + sugammadex
+Complication: Headache, nausea
+
+
+CASE 3, TREATMENT 2 
+Patient is a 38 yo female outpatient with history of mania and chronic pain and medical comorbidity of myasthenia gravis, ocular syndrome with no known arrhythmias weighing 85kg. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 66 resting HR 125 systolic 
+82 diastolic 
+85kg weight list of medications: acyclovir, rizatriptan, acetazolamide   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (yes) headache Binary (yes) Nausea or emesis 
+ 
+If y then -->Add premedication (Tylenol, Toradol or other NSAIDs) or consider rocuroniumIf y then -->Add zofran
+Rationale: Add supportive meds for nausea and headache
+Cocktail: Tylenol+ Methohexital + rocuronium + sugammadex
+Complication: No complications
+
+
+CASE 3, TREATMENT 3 
+Patient is a 38 yo female outpatient with history of mania and chronic pain and medical comorbidity of myasthenia gravis, ocular syndrome with no known arrhythmias weighing 85kg.   
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 66 resting HR 125 systolic 
+82 diastolic 
+85kg weight list of medications: acyclovir, rizatriptan, acetazolamide   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (yes) headache Binary (yes) Nausea or emesis 
+ 
+If y then -->Add premedication (Tylenol, Toradol or other NSAIDs) or consider rocuroniumIf y then -->Add zofran
+Rationale: Add supportive meds for nausea and headache
+Cocktail: Tylenol+ Methohexital + rocuronium + sugammadex
+Complication: No complications
+
+
+
+CASE 3, TREATMENT 4 
+Patient is a 38 yo female outpatient with history of mania and chronic pain and medical comorbidity of myasthenia gravis, ocular syndrome with no known arrhythmias weighing 85kg. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 66 resting HR 125 systolic 
+82 diastolic 
+85kg weight list of medications: acyclovir, rizatriptan, acetazolamide   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (yes) headache Binary (yes) Nausea or emesis 
+ 
+If y then -->Add premedication (Tylenol, Toradol or other NSAIDs) or consider rocuroniumIf y then -->Add zofran
+Rationale: Add supportive meds for nausea and headache
+Cocktail: Tylenol+ Methohexital + rocuronium + sugammadex
+Complication: No complications
+
+
+CASE 3, TREATMENT 5 
+Patient is a 38 yo female outpatient with history of mania and chronic pain and medical comorbidity of myasthenia gravis, ocular syndrome with no known arrhythmias weighing 85kg. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 66 resting HR 125 systolic 
+82 diastolic 
+85kg weight list of medications: acyclovir, rizatriptan, acetazolamide   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (yes) headache Binary (yes) Nausea or emesis 
+ 
+If y then -->Add premedication (Tylenol, Toradol or other NSAIDs) or consider rocuroniumIf y then -->Add zofran
+Rationale: Add supportive meds for nausea and headache
+Cocktail: Tylenol+ Methohexital + rocuronium + sugammadex
+Complication: No complications
+
+
+CASE 3, TREATMENT 6 
+Patient is a 38 yo female outpatient with history of mania and chronic pain and medical comorbidity of myasthenia gravis, ocular syndrome with no known arrhythmias weighing 85kg. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 66 resting HR 125 systolic 
+82 diastolic 
+85kg weight list of medications: acyclovir, rizatriptan, acetazolamide   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (yes) headache Binary (yes) Nausea or emesis 
+ 
+If y then -->Add premedication (Tylenol, Toradol or other NSAIDs) or consider rocuroniumIf y then -->Add zofran
+Rationale: Add supportive meds for nausea and headache
+Cocktail: Tylenol+ Methohexital + rocuronium + sugammadex
+Complication: No complications
+
+
+CASE 3, TREATMENT 7
+Patient is a 38 yo female outpatient with history of mania and chronic pain and medical comorbidity of myasthenia gravis, ocular syndrome with no known arrhythmias weighing 85kg. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 66 resting HR 125 systolic 
+82 diastolic 
+85kg weight list of medications: acyclovir, rizatriptan, acetazolamide   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (yes) headache Binary (yes) Nausea or emesis 
+ 
+If y then -->Add premedication (Tylenol, Toradol or other NSAIDs) or consider rocuroniumIf y then -->Add zofran
+Rationale: Add supportive meds for nausea and headache
+Cocktail: Tylenol+ Methohexital + rocuronium + sugammadex
+Complication: No complications
+
+
+CASE 3, TREATMENT 8 
+Patient is a 38 yo female outpatient with history of mania and chronic pain and medical comorbidity of myasthenia gravis, ocular syndrome with no known arrhythmias weighing 85kg. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 66 resting HR 125 systolic 
+82 diastolic 
+85kg weight list of medications: acyclovir, rizatriptan, acetazolamide   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (yes) headache Binary (yes) Nausea or emesis 
+ 
+If y then -->Add premedication (Tylenol, Toradol or other NSAIDs) or consider rocuroniumIf y then -->Add zofran
+Rationale: Add supportive meds for nausea and headache
+Cocktail: Tylenol+ Methohexital + rocuronium + sugammadex
+Complication: No complications
+
+
+CASE 3, TREATMENT 9 
+Patient is a 38 yo female outpatient with history of mania and chronic pain and medical comorbidity of myasthenia gravis, ocular syndrome with no known arrhythmias weighing 85kg. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 66 resting HR 125 systolic 
+82 diastolic 
+85kg weight list of medications: acyclovir, rizatriptan, acetazolamide   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (yes) headache Binary (yes) Nausea or emesis 
+ 
+If y then -->Add premedication (Tylenol, Toradol or other NSAIDs) or consider rocuroniumIf y then -->Add zofran
+Rationale: Add supportive meds for nausea and headache
+Cocktail: Tylenol+ Methohexital + rocuronium + sugammadex
+Complication: No complications
+
+
+CASE  4, TREATMENT 1 
+Patient is a 60 yo black male outpatient with history of MDD, anxiety, and NICMO 2/2 HTN s/p CRT-D, paced with no known arrhythmias weighing 82.2kg. Presenting for first treatment after not having taken morning BP medications as requested. 
+  
+Psychiatric factors most important for the patient case 
+Input types Psychiatric factors most important for the patient case binary (no) Dx bipolarity or hx impulsive violence binary (no) On benzodiazepines binary (no) On seizure medications binary (no) Dx chronic pain  binary (no) Dx neurocognitive disorder  Binary (no) Dx fracture or neuromuscular disorder   
+Since patient forgot to take blood pressure medications: out of an abundance of caution, 
+Systolic if high then--> avoid ketamine and consider propofol and fentanyl If diastolic high then--> avoid ketamine and consider propofol and fentanyl Since fentanyl alone cannot be used, we must use propofol and consider using fentanyl to spare effect on seizure threshold.   Medical Factors 60 Age 
+65 resting HR 170 systolic 
+85 diastolic 
+82.2kg weight list of medications: atorvastatin, lithium, mirabegron, bupropion, mirtazapine, metoprolol, Entresto, omeprazole, tamsulosin   
+Tampa Site A Group (Sullivan, Stewart, Kroger, Gunther) algorithm suggests: Propofol 150mg +/- fentanyl Since none of the above conditions met, Default Path is methohexital, propofol, or etomidate, given concern for hypertension and the patient being on bupropion, the choice was made to proceed with propofol with the thought that it was less likely to result in an effect on seizure threshold as bupropion may potentially decrease seizure threshold (though still limited evidence for that claim).   Starting Right unilateral given hypertensive cerebrovascular disease evident on MRI.
+Cocktail: propofol + succinylcholine
+Complicated by inadequate seizure 
+
+
+CASE 4, TREATMENT 2 
+Patient is a 60 yo black male outpatient with history of MDD, anxiety, and NICMO 2/2 HTN s/p CRT-D, paced with no known arrhythmias weighing 82.2kg. Presenting for first treatment after having taken morning BP medications as requested. Reports very poor sleep and headache, admitting that he has a history of headaches that do tend to respond to Tylenol.
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 65 resting HR 130 systolic 
+70 diastolic 
+82.5kg weight list of medications: atorvastatin, lithium, mirabegron, bupropion, mirtazapine, metoprolol, Entresto, omeprazole, tamsulosin   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (Yes) Inadequate seizure   
+If y then --> Change to methohexital, etomidate, add stimulants, add caffeine, theophylline)   
+  
+Cocktail: Tylenol+ methohexital + succinylcholine
+  
+Complicated by inadequate seizure, but immediate change from RUL to bilateral with good response.
+ 
+  
+ 
+ 
+ 
+ 
+
+
+CASE 4, TREATMENT 3 
+Patient is a 60 yo black male outpatient with history of MDD, anxiety, and NICMO 2/2 HTN s/p CRT-D, paced with no known arrhythmias weighing 82.2kg.
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 65 resting HR 130 systolic 
+70 diastolic 
+82.5kg weight list of medications: atorvastatin, lithium, mirabegron, bupropion, mirtazapine, metoprolol, Entresto, omeprazole, tamsulosin   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (Yes) Inadequate seizure   
+If y then --> Change to bilateral and increase power, change to etomidate, add stimulants, add caffeine, theophylline)   
+  
+  
+Cocktail: Tylenol+ methohexital + succinylcholine
+
+Complication: insufficient seizure
+ 
+  
+ 
+  
+
+
+CASE 4, TREATMENT 4 
+Patient is a 60 yo black male outpatient with history of MDD, anxiety, and NICMO 2/2 HTN s/p CRT-D, paced with no known arrhythmias weighing 82.2kg.
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 65 resting HR 130 systolic 
+70 diastolic 
+82.5kg weight list of medications: atorvastatin, lithium, mirabegron, bupropion, mirtazapine, metoprolol, Entresto, omeprazole, tamsulosin   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (yes) Inadequate seizure   
+If y then --> Etomidate  add stimulants (caffeine not in formulary, oral theophylline)   
+  
+  
+  
+Cocktail: Tylenol+ etomidate + succinylcholine
+
+Complication: yelling after treatment (reemergence delirium) and HTN emergency
+  
+  
+  
+ 
+  
+ 
+  
+
+
+CASE 4, TREATMENT 5 
+Patient is a 60 yo black male outpatient with history of MDD, anxiety, and NICMO 2/2 HTN s/p CRT-D, paced with no known arrhythmias weighing 82.2kg. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 65 resting HR 130 systolic 
+70 diastolic 
+82.5kg weight list of medications: atorvastatin, lithium, mirabegron, bupropion, mirtazapine, metoprolol, Entresto, omeprazole, tamsulosin   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (yes) Reemergence Delirium binary (yes) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+If y then --> prioritize Precedex or sufentanyl (no RUL because of prior inadequate seizures, patient not on any meds to avoid   Precedex does not affect seizure threshold and therefore is favored over propofol
+If y then --> Give BP meds, avoid ketamine and consider propofol and fentanyl 
+Cocktail: Tylenol+ etomidate + precedex+ succinylcholine
+  
+No complications 
+  
+  
+ 
+  
+
+
+CASE 4, TREATMENT 6 
+Patient is a 60 yo black male outpatient with history of MDD, anxiety, and NICMO 2/2 HTN s/p CRT-D, paced with no known arrhythmias weighing 82.2kg. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 65 resting HR 130 systolic 
+70 diastolic 
+82.5kg weight list of medications: atorvastatin, lithium, mirabegron, bupropion, mirtazapine, metoprolol, Entresto, omeprazole, tamsulosin   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+Rationale: No complications, no changes
+
+Cocktail: Tylenol+ etomidate + precedex+ succinylcholine
+  
+No complications 
+  
+
+
+CASE 4, TREATMENT 7 
+Patient is a 60 yo black male outpatient with history of MDD, anxiety, and NICMO 2/2 HTN s/p CRT-D, paced with no known arrhythmias weighing 82.2kg. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 65 resting HR 130 systolic 
+70 diastolic 
+82.5kg weight list of medications: atorvastatin, lithium, mirabegron, bupropion, mirtazapine, metoprolol, Entresto, omeprazole, tamsulosin   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+Rationale: No complications, no changes
+
+Cocktail: Tylenol+ etomidate + precedex+ succinylcholine
+  
+No complications 
+  
+
+
+CASE 4, TREATMENT 8 
+Patient is a 60 yo black male outpatient with history of MDD, anxiety, and NICMO 2/2 HTN s/p CRT-D, paced with no known arrhythmias weighing 82.2kg. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 65 resting HR 130 systolic 
+70 diastolic 
+82.5kg weight list of medications: atorvastatin, lithium, mirabegron, bupropion, mirtazapine, metoprolol, Entresto, omeprazole, tamsulosin   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+Rationale: No complications, no changes but increasing power.
+
+Cocktail: Tylenol+ etomidate + precedex+ succinylcholine
+  
+No complications 
+  
+
+
+CASE 4, TREATMENT 9 
+Patient is a 60 yo black male outpatient with history of MDD, anxiety, and NICMO 2/2 HTN s/p CRT-D with a resting HR 88 and BP 115/71 with no known arrhythmias weighing 82.2kg.  Premedicated with theophylline. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 65 resting HR 130 systolic 
+70 diastolic 
+82.5kg weight list of medications: atorvastatin, lithium, mirabegron, bupropion, mirtazapine, metoprolol, Entresto, omeprazole, tamsulosin   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+Cocktail: Tylenol+ etomidate + precedex+ succinylcholine
+  
+Complicated by insufficient seizure, prescribed theophylline to take night prior to subsequent session. 
+ 
+  
+ 
+  
+
+
+CASE 4, TREATMENT 10 
+Patient is a 60 yo black male outpatient with history of MDD, anxiety, and NICMO 2/2 HTN s/p CRT-D, paced with no known arrhythmias weighing 82.2kg.  Premedicated with theophylline. Reports feeling a lot better than when he first started treatment and notes that he has been able to get his car out of his garage and work on it.
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 65 resting HR 140 systolic 
+70 diastolic 
+82.5kg weight list of medications: atorvastatin, lithium, mirabegron, bupropion, mirtazapine, metoprolol, Entresto, omeprazole, tamsulosin   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (yes) Inadequate seizure   
+Cocktail: Premedicated with theophylline + etomidate and precedex + labetalol 
+  
+No complications. 
+ 
+
+
+CASE 4, TREATMENT 11 
+Patient is a 60 yo black male outpatient with history of MDD, anxiety, and NICMO 2/2 HTN s/p CRT-D with a resting HR 88 and BP 115/71 with no known arrhythmias weighing 82.2kg.  Increased theophylline taken. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 65 resting HR 130 systolic 
+70 diastolic 
+82.5kg weight list of medications: atorvastatin, lithium, mirabegron, bupropion, mirtazapine, metoprolol, Entresto, omeprazole, tamsulosin   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+Cocktail: Increased theophylline + etomidate and precedex + labetalol 
+  
+No complications. 
+ 
+
+
+CASE 4, TREATMENT 12
+Patient is a 60 yo black male outpatient with history of MDD, anxiety, and NICMO 2/2 HTN s/p CRT-D with a resting HR 88 and BP 115/71 with no known arrhythmias weighing 82.2kg.  Premedicated with theophylline. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 55 resting HR 100 systolic 
+67 diastolic 
+82.5kg weight list of medications: atorvastatin, lithium, mirabegron, bupropion, mirtazapine, metoprolol, Entresto, omeprazole, tamsulosin   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+Cocktail: Premedicated with theophylline + etomidate and precedex + labetalol 
+  
+No complications. 
+ 
+
+
+CASE 4, TREATMENT 13 
+Patient is a 60 yo black male outpatient with history of MDD, anxiety, and NICMO 2/2 HTN s/p CRT-D with a resting HR 88 and BP 115/71 with no known arrhythmias weighing 82.2kg.  Premedicated with theophylline. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 55 resting HR 100 systolic 
+67 diastolic 
+82.5kg weight list of medications: atorvastatin, lithium, mirabegron, bupropion, mirtazapine, metoprolol, Entresto, omeprazole, tamsulosin   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+Cocktail: Premedicated with theophylline + etomidate and precedex + labetalol 
+  
+No complications.
+ 
+
+
+CASE  5, TREATMENT 1 
+Patient is a 32 yo female outpatient with history of postpartum depression and PTSD without behavioral issues (but no benzos or other seizure medications or delirium) with a resting HR 62 and BP 110/65 with no known arrhythmias weighing 62kg. Presenting for first treatment with DOP negative pregnancy test.  
+  
+Psychiatric factors most important for the patient case 
+Input types Psychiatric factors most important for the patient case binary (no) Dx bipolarity or hx impulsive violence binary (no) On benzodiazepines binary (no) On seizure medications binary (yes) Dx chronic pain: headache binary (no) Dx neurocognitive disorder  Binary (no) Dx fracture or neuromuscular disorder By default: methohexital 
+If y then --> Add premedication (Tylenol, Toradol or other NSAIDs)  Medical Factors 32 Age 
+62 resting HR 110 systolic 
+65 diastolic 
+62kg weight list of medications: escitalopramPrior Complications (Skip if 1st ever treatment) 
+  
+IV Dosing of ECT anesthetics minimum maximum methohexital (1-1.5mg/kg) 62 93     Cocktail: Tylenol+ methohexital + succinylcholine
+Complicated: by hypotensive shock this treatment requiring phenylephrine.  
+ 
+ 
+  
+
+
+CASE 5, TREATMENT 2 
+Patient is a 32 yo female outpatient with history of postpartum depression and PTSD without behavioral issues (but no benzos or other seizure medications or delirium) with a resting HR 62 and BP 110/65 with no known arrhythmias weighing 62kg. Presenting for second treatment after experiencing hypotension requiring phenylephrine. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 55 resting HR 100 systolic 
+67 diastolic 
+62kg weight list of medications: escitalopram   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (yes) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+If y then --> Add ketamine, Avoid anesthetics that have hypotension as a side effect and possibly provide ideal pressor for patient (based on pharmacological factors)   
+  
+Other consideration: glycopyrrolate can also be considered if only modest increases in blood pressure are needed or if we need to set a floor for the heart rate without increasing risk of agitation. In this case, the significant drop in 
+  
+  
+  
+Cocktail: Tylenol+ methohexital + ketamine + succinylcholine
+  
+No complications 
+ 
+
+
+CASE 5, TREATMENT 3 
+Patient is a 32 yo female outpatient with history of postpartum depression and PTSD without behavioral issues (but no benzos or other seizure medications or delirium) with a resting HR 62 and BP 110/65 with no known arrhythmias weighing 62kg. Presenting for third treatment after no complications on second. She notes she has been able to eat a bit more for breakfast and sleep has been a bit longer but she still awakens very early. Primary psychiatrist transitioned escitalopram to venlafaxine.
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 58 resting HR 105systolic 
+67 diastolic 
+62kg weight list of medications: venlafaxine   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+  
+Cocktail: Tylenol+ methohexital + ketamine + succinylcholine
+  
+No complications 
+ 
+  
+ 
+  
+
+
+CASE 5, TREATMENT 4 
+Patient is a 32 yo female outpatient with history of postpartum depression and PTSD without behavioral issues (but no benzos or other seizure medications or delirium) with a resting HR 62 and BP 110/65 with no known arrhythmias weighing 62kg. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 55 resting HR 100 systolic 
+67 diastolic 
+62kg weight list of medications: venlafaxine   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+  
+Cocktail: Tylenol+ methohexital + ketamine + succinylcholine
+  
+No complications 
+ 
+  
+  
+ 
+  
+
+
+CASE 5, TREATMENT 5 
+Patient is a 32 yo female outpatient with history of postpartum depression and PTSD without behavioral issues (but no benzos or other seizure medications or delirium) with a resting HR 62 and BP 110/65 with no known arrhythmias weighing 62kg. No complications in prior treatment and she is currently being treated with methohexital and ketamine with Tylenol premedication and denies cognitive dulling or disorientation.
+  
+Psychiatric and genetic factors no changes Medical Factors no changes 60 resting HR 110 systolic 
+70 diastolic 
+63kg weight list of medications: venlafaxine   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+
+Cocktail: Tylenol+ methohexital + ketamine + succinylcholine 
+
+No complications. (transitioned from right unilateral to bilateral during this treatment to elicit)
+ 
+  
+ 
+  
+
+
+CASE 5, TREATMENT 6 
+Patient is a 32 yo female outpatient with history of postpartum depression and PTSD without behavioral issues (but no benzos or other seizure medications or delirium) with a resting HR 62 and BP 110/65 with no known arrhythmias weighing 62kg. No complications in prior treatment and she is currently being treated with methohexital and ketamine with Tylenol premedication and she has been tolerating switch to bilateral for inadequate seizure at the last treatment.  Thus far patient has experienced drastic improvement with affective stability persisting throughout the day. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 60 resting HR 110 systolic 
+70 diastolic 
+64kg weight list of medications: venlafaxine + addition of bupropion  
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+If y then -->Change to etomidate, Increase power, RUL-> BL, add stimulants (bupropion, caffeine, theophylline), continue aggressive hyperventilation 
+
+Cocktail: Tylenol+ etomidate + ketamine + succinylcholine
+
+Complicated by hypertensive emergency level BP and nausea
+ 
+  
+ 
+  
+
+
+CASE 5, TREATMENT 7 
+Patient is a 32 yo female outpatient with history of postpartum depression and PTSD without behavioral issues (but no benzos or other seizure medications or delirium) with a resting HR 62 and BP 110/65 with no known arrhythmias weighing 62kg. Since initiation of treatment, patient has resumed PO intake, changed psychiatric medications in favor of sympathomimetic effects and has experienced improvement in energy. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 62 resting HR 110 systolic 
+65 diastolic 
+65kg weight list of medications: venlafaxine + bupropion   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (yes) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (no) headache Binary (yes) Nausea or emesis   
+If y then -->give BP meds (not high at baseline, so this would not make sense), avoid ketamine and consider propofol and fentanyl
+If y then -->Add zofran
+Cocktail: Tylenol+ Zofran+ etomidate + succinylcholine
+
+No complications 
+ 
+  
+  
+ 
+ 
+  
+CASE 5, TREATMENT 8 
+Patient is a 32 yo female outpatient with history of postpartum depression and PTSD without behavioral issues (but no benzos or other seizure medications or delirium) with a resting HR 62 and BP 110/65 with no known arrhythmias weighing 62kg. Since initiation of treatment, patient has resumed PO intake, changed psychiatric medications in favor of sympathomimetic effects and has experienced improvement in energy. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 62 resting HR 110 systolic 
+65 diastolic 
+65kg weight list of medications: venlafaxine + bupropion   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (yes) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (no) headache Binary (yes) Nausea or emesis   
+If y then -->give BP meds (not high at baseline, so this would not make sense), avoid ketamine and consider propofol and fentanyl
+If y then -->Add zofran
+Cocktail: Tylenol+ Zofran+ etomidate + succinylcholine
+
+No complications 
+
+
+CASE 5, TREATMENT 9 
+Patient is a 32 yo female outpatient with history of postpartum depression and PTSD without behavioral issues (but no benzos or other seizure medications or delirium) with a resting HR 62 and BP 110/65 with no known arrhythmias weighing 62kg. No complications in prior treatment and she is currently being treated with methohexital and ketamine with Tylenol premedication and she has been tolerating increase of power. Seizure has been shortening, but still adequate. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 62 resting HR 110 systolic 
+65 diastolic 
+65kg weight list of medications: venlafaxine + bupropion   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+Cocktail: Tylenol+ Zofran+ etomidate + succinylcholine
+
+No complications 
+ 
+ 
+  
+
+
+CASE 5, TREATMENT 10 
+Patient is a 32 yo female outpatient with history of postpartum depression and PTSD without behavioral issues (but no benzos or other seizure medications or delirium) with a resting HR 62 and BP 110/65 with no known arrhythmias weighing 62kg. No complications in prior treatment and she is currently being treated with methohexital and ketamine with Tylenol premedication and she has been tolerating increase of power. Seizure has been shortening, but still adequate. 
+  
+Psychiatric and genetic factors no changes  Medical Factors no changes 62 resting HR 110 systolic 
+65 diastolic 
+65kg weight list of medications: venlafaxine + bupropion   
+Prior Complications:  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure   
+Cocktail: Tylenol+ Zofran+ etomidate + succinylcholine
+
+No complications and patient completed index series after plateauing. 
+ 
+  
+  
+  
+ 
+  
+  
+ 
+  
+  
+  
+
+
+CASE  6, TREATMENT 1 
+Patient is a 45 yo female outpatient with history of PTSD and MDD without behavioral issues (but no benzos or other seizure medications or delirium) with a resting HR 76 and BP 130/75 with no known arrhythmias weighing 62kg. Presenting for first treatment with DOP negative pregnancy test.  
+  
+Psychiatric factors most important for the patient case 
+Input types Psychiatric factors most important for the patient case binary (no) Dx bipolarity or hx impulsive violence binary (no) On benzodiazepines binary (no) On seizure medications binary (yes) Dx chronic pain: headache binary (no) Dx neurocognitive disorder  Binary (no) Dx fracture or neuromuscular disorder By default: methohexital and start RUL 
+If y then --> Add premedication (Tylenol, Toradol or other NSAIDs)  Medical Factors 45 Age 
+76 resting HR 130 systolic 
+75 diastolic 
+62kg weight list of medications: ropinirole, lisinopril,  atorvastatinPrior Complications (Skip if 1st ever treatment) 
+  
+IV Dosing of ECT anesthetics minimum maximum methohexital (1-1.5mg/kg) 62 93  
+Cocktail: tylenol+methohexital+succinylcholine Complicated by severe migraine, nausea, and sinus tachycardia. 
+ 
+ 
+  
+
+
+CASE  6, TREATMENT 2 
+Patient is a 45 yo female outpatient with history of PTSD and MDD without behavioral issues (but no benzos or other seizure medications or delirium) with a resting HR 76 and BP 130/75 with no known arrhythmias weighing 62kg.  
+ 
+Medical Factors no changes 45 Age 
+76 resting HR 130 systolic 
+75 diastolic 
+62kg weight list of medications: liothyronine 50mcg, Lmethylfolate 15mg, omeprazole 40mg   
+Prior Complications:  
+  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (yes) headache Binary (yes) Nausea or emesis   
+If y then --> Add premedication (Tylenol, Toradol, or consider rocuronium   
+If y then --> Add zofran Cocktail: tylenol+toradol+zofran+methohexital+succinylcholine 
+Complicated by severe migraine and tachycardia. 
+ 
+ 
+  
+
+
+CASE  6, TREATMENT 3 
+Patient is a 45 yo female outpatient with history of PTSD and MDD without behavioral issues (but no benzos or other seizure medications or delirium) with a resting HR 76 and BP 130/75 with no known arrhythmias weighing 62kg.  
+ 
+Medical Factors no changes 45 Age 
+76 resting HR 130 systolic 
+75 diastolic 
+62kg weight list of medications: liothyronine 50mcg, Lmethylfolate 15mg, omeprazole 40mg   
+Prior Complications:  
+  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (yes) headache Binary (no) Nausea or emesis   
+If y then --> Add premedication (Tylenol, Toradol, opioids (remi or dilaudid), or consider rocuronium  
+Cocktail: tylenol+toradol+zofran+methohexital+succinylcholine+ dilaudid 
+Complicated by severe migraine and tachycardia. 
+  
+
+
+CASE  6, TREATMENT 4 
+Patient is a 45 yo female outpatient with history of PTSD and MDD without behavioral issues (but no benzos or other seizure medications or delirium) with a resting HR 76 and BP 130/75 with no known arrhythmias weighing 62kg. Patient with continued migraines despite optimization of reasonable PACU pain management.  
+Medical Factors no changes 45 Age 
+76 resting HR 130 systolic 
+75 diastolic 
+62kg weight list of medications: liothyronine 50mcg, Lmethylfolate 15mg, omeprazole 40mg   
+Prior Complications:  
+  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (yes) headache Binary (no) Nausea or emesis   
+If y then --> Keep basic premedication (removed dilaudid) and consider rocuronium  
+Cocktail: tylenol+toradol+zofran+methohexital+succinylcholine+ rocuronium
+
+No complications. 
+ 
+ 
+  
+
+
+CASE  7, TREATMENT 1 
+A 54-year-old female outpatient with a history of treatment-resistant major depressive disorder (MDD), PTSD, and generalized anxiety disorder (GAD) presenting for her first ECT treatment with significant anxiety and nausea. She has a history of hysterectomy and chronic back pain and is currently on bupropion, omeprazole, and Ozempic (holding 2 weeks prior to procedure). No history of bipolarity, impulsive violence, seizure medications, or neurocognitive disorder. No known arrhythmias. Resting vitals show HR 102 bpm and BP 145/95. Weight is 70kg. 
+ 
+Age: 54 Weight (kg): 70 
+Resting HR: High (HR > 100) Resting Systolic BP: High (SBP > 140) Resting Diastolic BP: High (DBP > 90) pharm: bupropion, omeprazole, ozempic
+Psychiatric factors most important for the patient case 
+Input types Psychiatric factors most important for the patient case binary (no) Prior reemergence delirium or hx impulsive violence binary (no) On benzodiazepines binary (no) On seizure medications binary (yes) Current sxs: headache, nausea, bradycardiabinary (no) Dx neurocognitive disorder  Binary (no) Dx fracture or neuromuscular disorder 
+By default: methohexital and start RUL If y then -->Add premedication (Tylenol, Toradol or other NSAIDs) or consider rocuroniumIf y then -->Add zofranRationale: Given the patient's elevated heart rate and blood pressure, ketamine and volatile anesthetics (sevoflurane, isoflurane) are discouraged due to their potential to exacerbate hypertension and tachycardia. Current exacerbation of chronic pain warrants NSAID premedication. Precedex could be a good agent for anxiety and possible agitation/sympathetic tone with high HR, in addition to gold standard methohexital. Zofran chosen due to subset of nausea under current sxs.
+
+Cocktail: Zofran+ Tylenol+ methohexital + precedex + succinylcholine
+Complications: headache
+ 
+  
+
+
+CASE  7, TREATMENT 2 
+54-year-old female outpatient with MDD and GAD, chronic back pain, and elevated resting HR and BP. After her first ECT treatment, No reemergence delirium, nausea/emesis, prolonged or inadequate seizure noted. Headache complicated recovery. No changes in medication or psychiatric profile. 
+Age: 54 Weight (kg): 70 
+Resting HR: High Resting Systolic BP: High Resting Diastolic BP: High 
+pharm: bupropion, omeprazole, ozempic 
+
+Prior Complications:  
+  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (yes) headache Binary (no) Nausea or emesis 
+Rationale: Only complication was persistent headache and so Toradol added on for additional relief, otherwise regimen unchanged. 
+
+Cocktail: Zofran+ Tylenol+ Toradol+ methohexital + precedex + succinylcholine
+Complications: none
+ 
+
+
+CASE 8 TREATMENT 1 
+A 45-year-old male outpatient with a history of PTSD and moderate MDD, presenting for his first ECT treatment. He reports chronic neck pain and frequent headaches, but no history of bipolarity, impulsive violence, neurocognitive disorder, or seizure medications. He is not on benzodiazepines. Vitals show resting HR of 105 bpm, BP 150/95 mmHg, and weight of 85 kg. No known arrhythmias or fractures. 
+Age: 45 Weight (kg): 85 
+pharm: sertraline 200mg 
+Resting HR: 88 Resting Systolic BP: 150 Resting Diastolic BP: 85 
+Psychiatric factors most important for the patient case 
+Input types Psychiatric factors most important for the patient case binary (no) Prior reemergence delirium or hx impulsive violence binary (no) On benzodiazepines binary (no) On seizure medications binary (yes) Current pain: headache binary (no) Dx neurocognitive disorder  Binary (no) Dx fracture or neuromuscular disorder By default: methohexital and start RUL 
+If y then --> Add premedication (Tylenol, Toradol or other NSAIDs) 
+Rationale: The default pathway includes methohexital and given active chronic pain, NSAID premedication is recommended for chronic pain and headache. Methohexital is selected as the induction agent due to its favorable seizure profile and absence of contraindications. As the patient insists Tylenol does nothing for him and he is currently experiencing a mild- moderate headache, we discuss and he agrees to Toradol.
+Cocktail: Methohexital + Toradol + succinylcholine
+
+Complicated tachyarrhythmia and nausea/emesis post-procedure 
+
+CASE 8, TREATMENT 2 
+Patient Summary: 45-year-old male outpatient with PTSD and moderate MDD, chronic neck pain, and frequent headaches. After his first ECT treatment with methohexital, NSAID premedication, and precedex, he experienced tachyarrhythmia and nausea/emesis post-procedure. No reemergence delirium, prolonged or inadequate seizure, or bradyarrhythmia noted. No changes in psychiatric profile or medications. 
+Age: 45 Weight (kg): 85 
+Resting HR: 75	High Resting Systolic BP: 145 Resting Diastolic BP: 88 
+Prior Complications:  
+  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (yes) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (no) headache Binary (yes) Nausea or emesis   
+If y then -->avoid ketamine or tachycardia inducing anesthetics, consider propofolIf y then -->Add zofranpharm: sertraline 200mg 
+Rationale: The presence of tachyarrhythmia necessitates avoiding ketamine and other agents that may exacerbate heart rate and propofol would be the preferred agent. NSAIDs are continued for chronic pain as this was stable during the treatment. Zofran is added to address nausea/emesis.
+Cocktail: propofol + Toradol + succinylcholine
+Complications: none
+
+
+CASE 8, TREATMENT 3 
+Patient Summary: 45-year-old male outpatient with PTSD and moderate MDD, chronic neck pain, and frequent headaches.  No reemergence delirium, prolonged or inadequate seizure, or bradyarrhythmia noted. No changes in psychiatric profile or medications. 
+Age: 45 Weight (kg): 85 
+Resting HR: 74	High Resting Systolic BP: 140 Resting Diastolic BP: 86 
+Prior Complications:  
+  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (no) headache Binary (no) Nausea or emesis   
+pharm: sertraline 200mg 
+Rationale: No complications means we continue prior regimen.
+Cocktail: propofol + Toradol + succinylcholine
+Complications: none
+
+
+CASE 8, TREATMENT 4 
+Patient Summary: 45-year-old male outpatient with PTSD and moderate MDD, chronic neck pain, and frequent headaches.  He notes he lifted weights for the first time in months over the weekend. No reemergence delirium, prolonged or inadequate seizure, or bradyarrhythmia noted. No changes in psychiatric profile or medications. 
+Age: 45 Weight (kg): 86 
+Resting HR: 68	High Resting Systolic BP: 142 Resting Diastolic BP: 84 
+Prior Complications:  
+  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (no) headache Binary (no) Nausea or emesis   
+pharm: sertraline 200mg 
+Rationale: No complications means we continue prior regimen.
+Cocktail: propofol + Toradol + succinylcholine
+Complications: none
+
+
+CASE 8, TREATMENT 5 
+Patient Summary: 45-year-old male outpatient with PTSD and moderate MDD, chronic neck pain, and frequent headaches. No reemergence delirium, prolonged or inadequate seizure, or bradyarrhythmia noted. No changes in psychiatric profile or medications. 
+Age: 45 Weight (kg): 86 
+Resting HR: 68	High Resting Systolic BP: 142 Resting Diastolic BP: 84 
+Prior Complications:  
+  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (no) headache Binary (no) Nausea or emesis   
+pharm: sertraline 200mg 
+Rationale: No complications means we continue prior regimen.
+Cocktail: propofol + Toradol + succinylcholine
+Complications: none 
+
+
+
+CASE 8, TREATMENT 6 
+Patient Summary: 45-year-old male outpatient with PTSD and moderate MDD, chronic neck pain, and frequent headaches.  He notes increase in appetite. No reemergence delirium, prolonged or inadequate seizure, or bradyarrhythmia noted. No changes in psychiatric profile or medications. 
+Age: 45 Weight (kg): 86 
+Resting HR: 68	High Resting Systolic BP: 142 Resting Diastolic BP: 84 
+Prior Complications:  
+  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (no) headache Binary (no) Nausea or emesis   
+pharm: sertraline 200mg 
+Rationale: No complications means we continue prior regimen.
+Cocktail: propofol + Toradol + succinylcholine
+Complications: short seizure even with hyperventilation and retreat
+
+CASE 8, TREATMENT 7 
+Patient Summary: 45-year-old male outpatient with PTSD and moderate MDD, chronic neck pain, and frequent headaches. No reemergence delirium, prolonged or inadequate seizure, or bradyarrhythmia noted. No changes in psychiatric profile or medications. 
+Age: 45 Weight (kg): 86 
+Resting HR: 68	High Resting Systolic BP: 142 Resting Diastolic BP: 84 
+Prior Complications:  
+  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (yes) Inadequate seizure Binary (no) headache Binary (no) Nausea or emesis   
+If y then -->Change to etomidate/add stimulants (less desirable due to AE nausea, tachycardia), Increase power, RUL-> bilateral, increase hyperventilation pharm: sertraline 200mg 
+Rationale: keep anesthetics and switch to bilateral
+Cocktail: propofol + Toradol + succinylcholine
+Complications: none
+
+
+CASE 8, TREATMENT 8 
+Patient Summary: 45-year-old male outpatient with PTSD and moderate MDD, chronic neck pain, and frequent headaches. No reemergence delirium, prolonged or inadequate seizure, or bradyarrhythmia noted. No changes in psychiatric profile or medications. 
+Age: 45 Weight (kg): 86 
+Resting HR: 68	High Resting Systolic BP: 142 Resting Diastolic BP: 84 
+Prior Complications:  
+  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (no) headache Binary (no) Nausea or emesis   
+pharm: sertraline 200mg 
+Rationale: No complications means we continue prior regimen. 
+Cocktail: propofol + Toradol + succinylcholine
+Complications: none
+
+
+CASE 8, TREATMENT 9 
+Patient Summary: 46-year-old male outpatient with PTSD and moderate MDD, chronic neck pain, and frequent headaches. No reemergence delirium, prolonged or inadequate seizure, or bradyarrhythmia noted. No changes in psychiatric profile or medications. Patient notes having started a beta blocker since the last visit. 
+Age: 46 Weight (kg): 84 
+Resting HR: 65	High Resting Systolic BP: 132 Resting Diastolic BP: 74 
+Prior Complications:  
+  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (no) headache Binary (no) Nausea or emesis   
+pharm: sertraline 200mg 
+Rationale: No complications means we continue prior regimen. 
+Cocktail: propofol + Toradol + succinylcholine
+Complications: none
+
+
+CASE 8, TREATMENT 10 
+Patient Summary: 46-year-old male outpatient with PTSD and moderate MDD, chronic neck pain, and frequent headaches. No reemergence delirium, prolonged or inadequate seizure, or bradyarrhythmia noted. No changes in psychiatric profile or medications. 
+Age: 46 Weight (kg): 84 
+Resting HR: 65	High Resting Systolic BP: 132 Resting Diastolic BP: 74 
+pharm: sertraline 
+Prior Complications:  
+  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (no) headache Binary (no) Nausea or emesis   
+Rationale: No complications means we continue prior regimen. 
+Cocktail: propofol + Toradol + succinylcholine
+
+Complication: inadequate seizure
+
+
+CASE 8, TREATMENT 11 
+Patient Summary: 46-year-old male outpatient with PTSD and moderate MDD, chronic neck pain, and frequent headaches. No reemergence delirium, prolonged or inadequate seizure, or bradyarrhythmia noted. No changes in psychiatric profile or medications. 
+Age: 46 Weight (kg): 84 
+Resting HR: 65	High Resting Systolic BP: 132 Resting Diastolic BP: 74 
+pharm: sertraline 
+Prior Complications:  
+  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (yes) Inadequate seizure Binary (no) headache Binary (no) Nausea or emesis   
+If y then -->Change to etomidate/add stimulants (less desirable due to AE nausea, tachycardia), Increase power, RUL-> bilateral, increase hyperventilation Rationale: Since power and laterality are fully optimized, we reconsider the risks vs benefits of changing to etomidate or adding stimulants. In this patient’s case, BP and HR have improved at baseline and so tolerability of these stimulating anesthetics may have improved. Will transition back to methohexital, transition to etomidate would also be fair but this provider tends to go with known effects of methohexital with plan to prevent rather than testing patient specific tolerability with etomidate.  
+Cocktail: methohexital + Toradol + succinylcholine
+Complications: none
+
+
+
+
+CASE 8, TREATMENT 12 
+Patient Summary: 46-year-old male outpatient with PTSD and moderate MDD, chronic neck pain, and frequent headaches. No reemergence delirium, prolonged or inadequate seizure, or bradyarrhythmia noted. No changes in psychiatric profile or medications. 
+Age: 46 Weight (kg): 84 
+Resting HR: 65	High Resting Systolic BP: 132 Resting Diastolic BP: 74 
+pharm: sertraline
+Prior Complications:  
+  
+Input types Subsequent treatment Factors binary (no) Reemergence Delirium binary (no) Hypertensive Emergency binary (no) Hypotensive Shock binary (no) Bradyarrhythmia binary (no) Tachyarrhythmia binary (no) Prolonged seizure binary (no) Inadequate seizure Binary (no) headache Binary (no) Nausea or emesis   
+If y then -->Change to etomidate/add stimulants (less desirable due to AE nausea, tachycardia), Increase power, RUL-> bilateral, increase hyperventilation Rationale: Since power and laterality are fully optimized, we reconsider the risks vs benefits of changing to etomidate or adding stimulants. In this patient’s case, BP and HR have improved at baseline and so tolerability of these stimulating anesthetics may have improved. Will transition back to methohexital, transition to etomidate would also be fair but this provider tends to go with known effects of methohexital with plan to prevent rather than testing patient specific tolerability with etomidate.  
+Cocktail: methohexital + Toradol + succinylcholine
+
+Complications: none
+
+CASE 9, TREATMENT 1 
+60-year-old female outpatient with a history of late-onset bipolar disorder and mild neurocognitive impairment and severe vitamin D deficiency, presenting for her first ECT treatment. She also has chronic osteoarthritis-related pain and no history of unstable vertebral fracture. She is currently taking bupropion and omeprazole, but is not on benzodiazepines or seizure medications. No known arrhythmias. Currently bed bound and not eating.
+HR of 58 bpm, BP 95/60 mmHg, and weight of 68 kg. 
+pharm: mirtazapine, lamictal, trazodone, atorvastatin, lisinopril, tylenol
+Age: 60 Weight (kg): 68 
+Input typesPsychiatric factors most important for the patient casebinary (no)prior reemergence or hx violencebinary (no)benzosbinary (yes)on seizure medicationsbinary (yes)current painbinary (no)current nausea or emesisbinary (yes)logistics w. high risk for cognitive issues 
+If y then -->Consider methohexital +/- precedex (not a good idea because of pulse, but can consider if needed later for agitation) AND  Avoid ketamine, Sevoflurane, Isoflurane, and midazolam, propofol (may work for some)If y then -->Avoid propofolIf y then -->Add premedication (Tylenol, Toradol or other NSAIDs) or consider rocuronium
+Rationale: This patient presents with multiple risk factors: bipolarity, neurocognitive impairment, chronic pain, and low resting vitals. These warrant avoiding ketamine, propofol, and volatile anesthetics. Methohexital is preferred due to bupropion use. Precedex or sufentanyl are used with caution for sedation and cognitive protection, but the patient has low resting HR and BP. NSAIDs are recommended for pain. Started bilateral for more robust response given severity.
+Cocktail: Methohexital + Toradol + succinylcholine
+
+Complicated by tachyarrhythmia, agitation reemerging, nausea/emesis post-procedure 
+
+CASE 9, TREATMENT 2 
+60-year-old female outpatient with a history of late-onset bipolar disorder and mild neurocognitive impairment and severe vitamin D deficiency. She also has chronic osteoarthritis-related pain and in the interim has been diagnosed with hairline vertebral fracture. Not on benzodiazepines, continues Lamictal seizure medications. Since last treatment, she has started speaking short phrases with staff and eating some bites of food.
+HR of 58 bpm, BP 95/60 mmHg, and weight of 68 kg. 
+pharm: mirtazapine, lamictal, trazodone, atorvastatin, lisinopril, tylenol
+Age: 60 Weight (kg): 68 
+Input typesSubsequent treatment Factors/ Prior complicationsbinary (yes)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (yes)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (yes)nausea or emesisbinary (yes)current unstable fracture
+If y then -->avoid ketamine or tachycardia inducing anesthetics, consider propofol If y then -->Add zofranIf y then -->Start RUL, prioritize Precedex or sufentanyl and Avoid propofol, sevoflurane, isoflurane, ketamine, and midazolamIf y then -->Use rocuronium for paralytic; IF ROC THEN ALSO ADD SUGAMMADEXRationale: Based on above, use of propofol would assist with tachycardia and precedex addition would likely assist with any paradoxical agitation that may theoretically occur with use of  propofol. Due to prolonged immobility and new diagnosis of fracture, safer to go with roc.
+Cocktail: Toradol+ Zofran+ propofol+ precedex + rocuronium + sugammadex
+Complication: None 
+
+
+CASE 9, TREATMENT 3 
+60-year-old female outpatient with a history of late-onset bipolar disorder and mild neurocognitive impairment and severe vitamin D deficiency. She also has chronic osteoarthritis-related pain and in the interim has been diagnosed with hairline vertebral fracture. Not on benzodiazepines, continues Lamictal seizure medications. 
+HR of 58 bpm, BP 95/60 mmHg, and weight of 68 kg. 
+pharm: mirtazapine, lamictal, trazodone, atorvastatin, lisinopril, tylenol
+Age: 60 Weight (kg): 68 
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesisRationale: No complications, no changes
+Cocktail: Toradol+ Zofran+ propofol+ precedex + rocuronium + sugammadex
+Complication: None 
+
+
+CASE 9, TREATMENT 4
+60-year-old female outpatient with a history of late-onset bipolar disorder and mild neurocognitive impairment and severe vitamin D deficiency. She also has chronic osteoarthritis-related pain and in the interim has been diagnosed with hairline vertebral fracture. Not on benzodiazepines, continues Lamictal seizure medications. No known arrhythmias. Since last treatment, she has started speaking short phrases with staff and eating some bites of food.
+HR of 58 bpm, BP 100/70 mmHg, and weight of 68 kg. 
+pharm: mirtazapine, lamictal, trazodone, atorvastatin, lisinopril, tylenol
+Age: 60 Weight (kg): 68 
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesisRationale: No complications, no changes
+Cocktail: Toradol+ Zofran+ propofol+ precedex + rocuronium + sugammadex
+Complication: None 
+
+
+CASE 9, TREATMENT 5 
+60-year-old female outpatient with a history of late-onset bipolar disorder and mild neurocognitive impairment and severe vitamin D deficiency. She also has chronic osteoarthritis-related pain and in the interim has been diagnosed with hairline vertebral fracture. Not on benzodiazepines, continues Lamictal seizure medications. No known arrhythmias. Sleep study showed OSA and patient was started on CPAP
+HR of 58 bpm, BP 110/70 mmHg, and weight of 68 kg. 
+pharm: mirtazapine, lamictal, trazodone, atorvastatin, lisinopril, tylenol
+Age: 60 Weight (kg): 68 
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesisRationale: No complications, no changes but required retreatment with hyperventilation.
+Cocktail: Toradol+ Zofran+ propofol+ precedex + rocuronium + sugammadex
+Complication: Insufficient seizure 
+
+
+CASE 9, TREATMENT 6 
+60-year-old female outpatient with a history of late-onset bipolar disorder and mild neurocognitive impairment and severe vitamin D deficiency. She also has chronic osteoarthritis-related pain and in the interim has been diagnosed with hairline vertebral fracture. Not on benzodiazepines, continues Lamictal seizure medications. Tolerating CPAP well 
+HR of 55 bpm, BP 100/65 mmHg, and weight of 68 kg. 
+pharm: mirtazapine, lamictal, trazodone, atorvastatin, lisinopril, tylenol
+Age: 60 Weight (kg): 68 
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (yes)Inadequate seizurebinary (no)headachebinary (no)nausea or emesisRationale: Switch to etomidate for better seizure target as there are still 6 treatments anticipated.
+Cocktail: Toradol+ Zofran+ etomidate+ precedex + rocuronium + sugammadex
+Complication: None 
+
+
+CASE 9, TREATMENT 7 
+60-year-old female outpatient with a history of late-onset bipolar disorder and mild neurocognitive impairment and severe vitamin D deficiency. She also has chronic osteoarthritis-related pain and in the interim has been diagnosed with hairline vertebral fracture. Not on benzodiazepines, continues Lamictal seizure medications. No known arrhythmias. Since last treatment, she has started speaking short phrases with staff and eating some bites of food.
+HR of 55 bpm, BP 100/65 mmHg, and weight of 68 kg. 
+pharm: mirtazapine, lamictal, trazodone, atorvastatin, lisinopril, tylenol
+Age: 60 Weight (kg): 68 
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesisRationale: No complications, no changes
+Cocktail: Toradol+ Zofran+ etomidate+ precedex + rocuronium + sugammadex
+Complication: None 
+
+
+CASE 9, TREATMENT 8
+60-year-old female outpatient with a history of late-onset bipolar disorder and mild neurocognitive impairment and severe vitamin D deficiency. She also has chronic osteoarthritis-related pain and in the interim has been diagnosed with hairline vertebral fracture. Not on benzodiazepines, continues Lamictal seizure medications. No known arrhythmias. Since last treatment, she has started speaking short phrases with staff and eating some bites of food.
+HR of 55 bpm, BP 100/65 mmHg, and weight of 68 kg. 
+pharm: mirtazapine, lamictal, trazodone, atorvastatin, lisinopril, tylenol
+Age: 60 Weight (kg): 68 
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesisRationale: No complications, no changes
+Cocktail: Toradol+ Zofran+ etomidate+ precedex + rocuronium + sugammadex
+Complication: None 
+
+
+CASE 9, TREATMENT 9 
+60-year-old female outpatient with a history of late-onset bipolar disorder and mild neurocognitive impairment and severe vitamin D deficiency. She also has chronic osteoarthritis-related pain and in the interim has been diagnosed with hairline vertebral fracture. Not on benzodiazepines, continues Lamictal seizure medications. Patient plateaued.
+HR of 55 bpm, BP 100/65 mmHg, and weight of 68 kg. 
+pharm: mirtazapine, lamictal, trazodone, atorvastatin, lisinopril, tylenol
+Age: 60 Weight (kg): 68 
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesisRationale: No complications, no changes
+Cocktail: Toradol+ Zofran+ etomidate+ precedex + rocuronium + sugammadex
+Complication: None 
+
+
+
+CASE 9, TREATMENT 10
+60-year-old female outpatient with a history of late-onset bipolar disorder and mild neurocognitive impairment and severe vitamin D deficiency. She also has chronic osteoarthritis-related pain and in the interim has been diagnosed with hairline vertebral fracture. Not on benzodiazepines, continues Lamictal seizure medications. Patient plateaued.
+HR of 55 bpm, BP 100/65 mmHg, and weight of 68 kg. 
+pharm: mirtazapine, lamictal, trazodone, atorvastatin, lisinopril, tylenol
+Age: 60 Weight (kg): 68 
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesisRationale: No complications, no changes
+Cocktail: Toradol+ Zofran+ etomidate+ precedex + rocuronium + sugammadex
+Complication: None 
+
+
+CASE 10 TREATMENT 1 
+80-year-old male outpatient with a history of MDD and grief. He reports chronic neck pain and frequent headaches, but no history of mania, impulsive violence, neurocognitive disorder, or seizure medications. He is not on benzodiazepines. Hx Afib, no fractures. 
+Age: 80 Weight (kg): 79 
+pharm: sertraline, metoprolol, prazosin, gabapentin
+Resting HR: 88 Resting Systolic BP: 150 Resting Diastolic BP: 85 
+Psychiatric factors most important for the patient case 
+Input types Psychiatric factors most important for the patient case binary (no) Prior reemergence delirium or hx impulsive violence binary (no) On benzodiazepines binary (no) On seizure medications binary (yes) Current pain: headache binary (no) Dx neurocognitive disorder  Binary (no) Dx fracture or neuromuscular disorder By default: methohexital and start RUL 
+If y then --> Add premedication (Tylenol, Toradol or other NSAIDs) 
+Rationale: The default pathway includes methohexital and given active chronic pain, NSAID premedication is recommended for chronic pain and headache. Methohexital is selected as the induction agent due to its favorable seizure profile and absence of contraindications. 
+
+Cocktail: Methohexital + Toradol + succinylcholine
+
+Complications: None
+
+
+CASE 10 TREATMENT 2 
+80-year-old male outpatient with a history of MDD and grief. He reports chronic neck pain and frequent headaches, but no history of mania, impulsive violence, neurocognitive disorder, or seizure medications. He is not on benzodiazepines. Hx Afib, no fractures. 
+Age: 80 Weight (kg): 79 
+pharm: sertraline, metoprolol, prazosin, gabapentin
+Resting HR: 88 Resting Systolic BP: 150 Resting Diastolic BP: 85 
+
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesis
+Rationale: No complications, no change
+Cocktail: Methohexital + Toradol + succinylcholine
+
+Complications: None
+
+
+CASE 10 TREATMENT 3 
+80-year-old male outpatient with a history of MDD and grief. He reports chronic neck pain and frequent headaches, but no history of mania, impulsive violence, neurocognitive disorder, or seizure medications. He is not on benzodiazepines. Hx Afib, no fractures. 
+Age: 80 Weight (kg): 85 
+pharm: sertraline, metoprolol, prazosin, gabapentin
+Resting HR: 88 Resting Systolic BP: 150 Resting Diastolic BP: 85 
+
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesisRationale: No complications, no change
+Cocktail: Methohexital + Toradol + succinylcholine
+
+Complications: None
+
+
+CASE 10 TREATMENT 4 
+80-year-old male outpatient with a history of MDD and grief. He reports chronic neck pain and frequent headaches, but no history of mania, impulsive violence, neurocognitive disorder, or seizure medications. He is not on benzodiazepines. Hx Afib, no fractures. 
+Age: 80 Weight (kg): 85 
+pharm: sertraline, metoprolol, prazosin, gabapentin
+Resting HR: 88 Resting Systolic BP: 150 Resting Diastolic BP: 85 
+
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesisRationale: No complications, no change
+Cocktail: Methohexital + Toradol + succinylcholine
+
+Complications: Inadequate seizure
+
+
+CASE 10 TREATMENT 5 
+80-year-old male outpatient with a history of MDD and grief. He reports chronic neck pain and frequent headaches, but no history of mania, impulsive violence, neurocognitive disorder, or seizure medications. He is not on benzodiazepines. Hx Afib, no fractures. 
+Age: 80 Weight (kg): 85 
+pharm: sertraline, metoprolol, prazosin, gabapentin
+Resting HR: 88 Resting Systolic BP: 150 Resting Diastolic BP: 85 
+
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (yes)Inadequate seizurebinary (no)headachebinary (no)nausea or emesisRationale: change to bilateral
+Cocktail: Methohexital + Toradol + succinylcholine
+
+Complications: None 
+
+
+CASE 10 TREATMENT 6 
+80-year-old male outpatient with a history of MDD and grief. He reports chronic neck pain and frequent headaches, but no history of mania, impulsive violence, neurocognitive disorder, or seizure medications. He is not on benzodiazepines. Hx Afib, no fractures. 
+Age: 80 Weight (kg): 85 
+pharm: sertraline, metoprolol, prazosin, gabapentin
+Resting HR: 88 Resting Systolic BP: 150 Resting Diastolic BP: 85 
+
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesisRationale: No complications, no change
+Cocktail: Methohexital + Toradol + succinylcholine
+
+Complications: None
+
+
+CASE 10 TREATMENT 7 
+80-year-old male outpatient with a history of MDD and grief. He reports chronic neck pain and frequent headaches, but no history of mania, impulsive violence, neurocognitive disorder, or seizure medications. He is not on benzodiazepines. Hx Afib, no fractures. Response plateaued.
+Age: 80 Weight (kg): 85 
+pharm: sertraline, metoprolol, prazosin, gabapentin
+Resting HR: 88 Resting Systolic BP: 150 Resting Diastolic BP: 85 
+
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesisRationale: No complications, no change
+Cocktail: Methohexital + Toradol + succinylcholine
+
+Complications: None
+
+
+CASE 10 TREATMENT 8 
+80-year-old male outpatient with a history of MDD and grief. He reports chronic neck pain and frequent headaches, but no history of mania, impulsive violence, neurocognitive disorder, or seizure medications. He is not on benzodiazepines. Hx Afib, no fractures. 
+Age: 80 Weight (kg): 85 
+pharm: sertraline, metoprolol, prazosin, gabapentin
+Resting HR: 88 Resting Systolic BP: 150 Resting Diastolic BP: 85 
+
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesisRationale: No complications, no change
+Cocktail: Methohexital + Toradol + succinylcholine
+
+Complications: None
+
+
+CASE 10 TREATMENT 9 
+80-year-old male outpatient with a history of MDD and grief. He reports chronic neck pain and frequent headaches, but no history of mania, impulsive violence, neurocognitive disorder, or seizure medications. He is not on benzodiazepines. Hx Afib, no fractures. 
+Age: 80 Weight (kg): 85 
+pharm: sertraline, metoprolol, prazosin, gabapentin
+Resting HR: 88 Resting Systolic BP: 150 Resting Diastolic BP: 85 
+
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesisRationale: No complications, no change
+Cocktail: Methohexital + Toradol + succinylcholine
+
+Complications: None
+
+
+CASE 11 TREATMENT 1
+A 31-year-old male outpatient with a history of MDD and polysubstance use (spice, cocaine, alcohol, cannabis). Mute and catatonic with no report of discomfort and very minimal PO intake. Unclear history of mania, agitation in ICU, no neurocognitive disorder, on Ativan 2mg q4h but no other seizure medications. No known arrhythmias or fractures. 
+Age: 31 Weight (kg): 100 
+pharm: Ativan, Thorazine, olanzapine, memantine, prazosin
+Resting HR: 88 Resting Systolic BP: 150 Resting Diastolic BP: 85
+Psychiatric factors most important for the patient case 
+Input types Psychiatric factors most important for the patient case binary (yes) Prior reemergence delirium or hx impulsive violence binary (yes) On benzodiazepines binary (no) On seizure medications binary (no) Current pain: headache binary (no) Dx neurocognitive disorder  Binary (no) Dx fracture or neuromuscular disorder Rationale:  Start with most sedating anesthetics as patient has numerous attempts at harming staff. Therefore starting with propofol. A practical rule of thumb is that the flumazenil dose (mg) ? 0.1 × lorazepam-equivalent dose (mg), so 2–5 mg of lorazepam would need about 0.2–0.5 mg of flumazenil for partial reversal. Because flumazenil’s half-life is much shorter, patients may become sedated shortly after administration again, and abrupt reversal in chronic users can trigger withdrawal or seizures. Proactively treating pain can also prevent agitation downstream.
+Cocktail: flumazenil + Toradol + tylenol  + propofol + succinylcholine 
+
+Complicated by agitation/reemergence (failed midazolam, propofol max dose reached, but Ativan worked quickly)
+
+
+CASE 11 TREATMENT 2
+A 31-year-old male outpatient with a history of MDD and polysubstance use (spice, cocaine, alcohol, cannabis). Mute and catatonic with no report of discomfort and very minimal PO intake. Unclear history of mania, agitation in ICU, no neurocognitive disorder, on Ativan 2mg q4h but no other seizure medications. No known arrhythmias or fractures. 
+Age: 31 Weight (kg): 100 
+pharm: Ativan, Thorazine, olanzapine, memantine, prazosin
+Resting HR: 88 Resting Systolic BP: 150 Resting Diastolic BP: 85
+Input typesSubsequent treatment Factorsbinary (yes)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesis
+Rationale:  Keep flumazenil, Toradol, Tylenol, propofol 
+
+Cocktail: flumazenil + Toradol + tylenol  + propofol + succinylcholine + Ativan (worked empirically)
+
+Complicated by agitation/reemergence but grimacing and localizing to back was suspected clinically.
+
+
+CASE 11 TREATMENT 3
+A 31-year-old male outpatient with a history of MDD and polysubstance use (spice, cocaine, alcohol, cannabis). Mute and catatonic with no report of discomfort and very minimal PO intake. Unclear history of mania, agitation in ICU, no neurocognitive disorder, on Ativan 2mg q4h but no other seizure medications. No known arrhythmias or fractures. Patient in chart has been more responsive and alluding to pain and is visibly shifting around to get comfortable.
+Age: 31 Weight (kg): 100 
+pharm: Ativan, Thorazine, olanzapine, memantine, prazosin
+Resting HR: 88 Resting Systolic BP: 150 Resting Diastolic BP: 85
+Input typesSubsequent treatment Factorsbinary (yes)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesis-
+If y then -->Start RUL, prioritize Precedex (would not address clinical pain but a valid option) or su/fentanyl and Avoid propofol, sevoflurane, isoflurane, ketamine, and midazolam
+Rationale:  Keep flumazenil, Toradol, Tylenol, propofol and add precedex
+Cocktail: flumazenil + Toradol + tylenol  + propofol + succinylcholine + Ativan+ precedex
+
+No complications
+
+
+CASE 11 TREATMENT 4
+A 31-year-old male outpatient with a history of MDD and polysubstance use (spice, cocaine, alcohol, cannabis). Mute and catatonic with no report of discomfort and very minimal PO intake. Unclear history of mania, agitation in ICU, no neurocognitive disorder, on Ativan 2mg q4h but no other seizure medications. No known arrhythmias or fractures. Patient in chart has been more responsive and alluding to pain and is visibly shifting around to get comfortable.
+Age: 31 Weight (kg): 100 
+pharm: Ativan, Thorazine, olanzapine, memantine, prazosin
+Resting HR: 88 Resting Systolic BP: 150 Resting Diastolic BP: 85
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesis
+Rationale:  No complication no change
+Cocktail: flumazenil + Toradol + tylenol  + propofol + succinylcholine + Ativan+ precedex
+
+No complications
+
+
+CASE 11 TREATMENT 5
+A 31-year-old male outpatient with a history of MDD and polysubstance use (spice, cocaine, alcohol, cannabis). Mute and catatonic with no report of discomfort and very minimal PO intake. Unclear history of mania, agitation in ICU, no neurocognitive disorder, on Ativan 2mg q4h but no other seizure medications. No known arrhythmias or fractures. Patient in chart has been more responsive and alluding to pain and is visibly shifting around to get comfortable.
+Age: 31 Weight (kg): 100 
+pharm: Ativan, Thorazine, olanzapine, memantine, prazosin
+Resting HR: 88 Resting Systolic BP: 150 Resting Diastolic BP: 85
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesis
+Rationale:  No complication no change
+Cocktail: flumazenil + Toradol + tylenol  + propofol + succinylcholine + Ativan+ precedex
+
+Complicated by insufficient seizure
+
+
+CASE 11 TREATMENT 6
+A 31-year-old male outpatient with a history of MDD and polysubstance use (spice, cocaine, alcohol, cannabis). Mute and catatonic with no report of discomfort and very minimal PO intake. Unclear history of mania, agitation in ICU, no neurocognitive disorder, on Ativan 2mg q4h but no other seizure medications. No known arrhythmias or fractures. Patient can identify treatment members and respond appropriately. Still dazed.
+Age: 31 Weight (kg): 100 
+pharm: Ativan, Thorazine, olanzapine, memantine, prazosin
+Resting HR: 88 Resting Systolic BP: 150 Resting Diastolic BP: 85
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (yes)Inadequate seizurebinary (no)headachebinary (no)nausea or emesis
+Rationale:  Propofol should be changed to methohexital (etomidate avoided given its nausea and stimulation during reemergence) 
+Cocktail: flumazenil + Toradol + tylenol  + methohexital + succinylcholine + Ativan+ precedex
+
+Complicated by tachyarrhythmia
+
+
+CASE 11 TREATMENT 7
+A 31-year-old male outpatient with a history of MDD and polysubstance use (spice, cocaine, alcohol, cannabis). Mute and catatonic with no report of discomfort and very minimal PO intake. Unclear history of mania, agitation in ICU, no neurocognitive disorder, on Ativan 2mg q4h but no other seizure medications. No known arrhythmias or fractures. Patient is back to baseline for one on one interactions but still has significant psychomotor retardation. PO intake improving.
+Age: 31 Weight (kg): 100 
+pharm: Ativan, Thorazine, olanzapine, memantine, prazosin
+Resting HR: 70  Resting Systolic BP: 140 Resting Diastolic BP: 75
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (yes)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesis
+Rationale:  Move precedex up to be given with propofol for effect on HR
+Cocktail: flumazenil + Toradol + tylenol  + precedex + propofol + succinylcholine + Ativan
+
+No complications
+
+
+CASE 11 TREATMENT 8
+A 31-year-old male outpatient with a history of MDD and polysubstance use (spice, cocaine, alcohol, cannabis). Mute and catatonic with no report of discomfort and very minimal PO intake. Unclear history of mania, agitation in ICU, no neurocognitive disorder, on Ativan 2mg q4h but no other seizure medications. No known arrhythmias or fractures. Patient is back to baseline for one on one interactions but still has significant psychomotor retardation. PO intake improving.
+Age: 31 Weight (kg): 100 
+pharm: Ativan, Thorazine, olanzapine, memantine, prazosin
+Resting HR: 70  Resting Systolic BP: 140 Resting Diastolic BP: 75
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesis
+Rationale:  No complication, no changes.
+Cocktail: flumazenil + Toradol + tylenol  + precedex + propofol + succinylcholine + Ativan
+
+No complications
+
+
+CASE 11 TREATMENT 9
+A 31-year-old male outpatient with a history of MDD and polysubstance use (spice, cocaine, alcohol, cannabis). Mute and catatonic with no report of discomfort and very minimal PO intake. Unclear history of mania, agitation in ICU, no neurocognitive disorder, on Ativan 2mg q4h but no other seizure medications. No known arrhythmias or fractures. Patient is back to baseline and working with therapy. Interested in tapering and focusing on medications and sobriety.
+Age: 31 Weight (kg): 100 
+pharm: Ativan, Thorazine, olanzapine, memantine, prazosin
+Resting HR: 70  Resting Systolic BP: 140 Resting Diastolic BP: 75
+Input typesSubsequent treatment Factorsbinary (no)Reemergence Deliriumbinary (no)Hypertensive Em/Urgencybinary (no)Hypotensive Shockbinary (no)Bradyarrhythmiabinary (no)Tachyarrhythmiabinary (no)Prolonged seizurebinary (no)Inadequate seizurebinary (no)headachebinary (no)nausea or emesis
+Rationale:  No complication, no changes.
+Cocktail: flumazenil + Toradol + tylenol  + precedex + propofol + succinylcholine + Ativan
+
+No complications
+

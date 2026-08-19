@@ -1,0 +1,27 @@
+{
+  "model_a": {
+    "model_name": "real_only",
+    "loco_accuracy": 0.4839,
+    "loco_hamming_loss": 0.2846,
+    "loco_exact_match": 0.0108,
+    "train_accuracy": 0.9086,
+    "oob_score": 0.7473,
+    "n_rows": 186,
+    "n_features": 50
+  },
+  "model_b": {
+    "model_name": "combined",
+    "cv5_accuracy_combined": 0.858,
+    "cv5_hamming_loss": 0.1855,
+    "cv5_exact_match": 0.1002,
+    "loco_accuracy_real": 0.4946,
+    "loco_hamming_loss_real": 0.255,
+    "loco_exact_match_real": 0.086,
+    "train_accuracy": 0.9975,
+    "oob_score": 0.8603,
+    "n_real": 186,
+    "n_synthetic": 7380,
+    "n_combined": 7566,
+    "n_features": 50
+  }
+}
